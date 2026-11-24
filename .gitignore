@@ -1,0 +1,13 @@
+# 编译产物
+*.exe
+*.pdb
+
+# Visual Studio / Rider
+bin/
+obj/
+.vs/
+*.user
+
+# 临时文件
+*.zip
+Thumbs.db
